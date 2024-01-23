@@ -51,3 +51,7 @@ Over all question：这个系统和现在主流的DBMS有哪些不同
 
 不用回答的Q：为什么左深树比右深树更节省内存？
 
+
+在处理query的时候，用上了“哈希联接并行算法”这是他们核心的卖点之一：
+join- operate：sort-merge, Grace [KITS83], Simple[DEWI84], and Hybrid
+
